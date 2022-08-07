@@ -1,3 +1,3 @@
 # Practicando_Cursos
 practicas de diferentes cursos
-Iniciando las prácticas
+Iniciando las prácticas AI
